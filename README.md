@@ -6,7 +6,7 @@
 <!-- Анимированное приветствие с эмодзи и GIF-картинкой приветственного жеста -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF4500&center=true&vCenter=true&width=900&lines=Full-stack+developer+%7C+Mini-apps%2C+Bots%2C+Mods+%26+more!;Pierce+the+heavens+with+your+code!+%E2%9A%94%EF%B8%8F+%F0%9F%9A%80;Always+coding+like+Team+Dai-Gurren%21+%F0%9F%92%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF4500&center=true&vCenter=true&width=900&lines=Full+developer+%7C+Mini-apps%2C+Bots%2C+Mods+%26+more!;Pierce+the+heavens+with+your+code!+%E2%9A%94%EF%B8%8F+%F0%9F%9A%80;Always+coding+like+Team+Dai-Gurren%21+%F0%9F%92%A5" alt="Typing SVG" />
 </p>
 
 <!-- Здесь используется анимация текста с яркими отсылками к "Гуррен Лаганн" и твоим навыкам -->
