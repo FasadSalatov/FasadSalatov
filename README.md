@@ -46,7 +46,10 @@
 - **Three.js Projects** – Bringing anime-inspired 3D models into reality – **Evangelion** meets **Gurren Lagann**!
 
 ---
+### Want to play a game? 🎮
 
+Check out this fun mini-game where a robot destroys spaceships! [Play here!](https://<твой-username>.github.io/robot-vs-spaceships)
+---
 ### Fun Facts 🎮
 
 - 🌌 Once made an **Evangelion mod** for Minecraft, where you could pilot an **Eva** to defend the world from **Angels**!  
