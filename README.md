@@ -1,97 +1,83 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines= Hello%2C+World!+I'm+Fasad_Salatov!; Full-stack+developer+from+Russia; Anime+Fan+%7C+Gamer+%7C+Coder; Creating+cool+stuff+in+Python+%2C+Go%2C+Java!" alt="Typing SVG" />
-</div>
+<h1 align="center">Hi there, I'm FasadSalatov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6A64F7&center=true&vCenter=true&width=435&lines=Full-stack+dev+for+Telegram+mini-apps;Bots%2C+plugins%2C+mods+%26+more!;Welcome+to+my+kingdom+of+code!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/215771288-23d90db3-97a3-4c5e-80f4-f6436e11b181.gif" width="400" height="200"/>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26Ff7Ld4XLLtrSAqg/giphy.gif" width="200"/>
-  <h3>Welcome to my GitHub!</h3>
-  <p><i>“People's lives don't end when they die, it ends when they lose faith.” - Itachi Uchiha</i></p>
-</div>
+### About Me 🙋‍♂️
+
+- 🌍 Full-stack developer from **Russia**  
+- 💻 I specialize in **Telegram mini-apps**, **bots**, **game plugins**, and **Minecraft mods**  
+- 🎮 Love anime and games! Big fan of _Naruto_, _One Piece_, and _Minecraft_  
+- 🔥 I combine the power of **Node.js** and **React** to bring worlds to life, whether it’s in a mini-app or a Minecraft mod!  
+- 💡 I’m all about **problem-solving** and building **automated solutions**  
+- 🌱 Currently leveling up with **NestJS**, **Three.js**, and **AI**
 
 ---
 
-## 🛠️ Technologies & Tools:
+### My Arsenal 💼
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=007396">
-  <img src="https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go&logoColor=00ADD8">
-  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=f7df1e">
-  <img src="https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua&logoColor=2C2D72">
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,mongodb,postgres,mysql,html,css,webpack,docker,git,github,vscode" alt="Tech Stack" />
+</p>
 
 ---
 
-## 🚀 My Projects:
+### Contact Me 📫
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Technologies</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/FasadSalatov/Python-Script-AFK-for-games">Python-Script-AFK-for-games</a></td>
-      <td>Script to automate mouse movements for games.</td>
-      <td><img src="https://img.shields.io/badge/-Python-000?logo=python&style=flat-square"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/FasadSalatov/SnakeGame">SnakeGame</a></td>
-      <td>Classic snake game written in Java with WASD control.</td>
-      <td><img src="https://img.shields.io/badge/-Java-000?logo=java&style=flat-square"></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/FasadSalatov/TTT-TTS-Plugin-for-Garry-s-Mod">TTT-TTS Plugin for Garry's Mod</a></td>
-      <td>Text-to-Speech plugin for Trouble in Terrorist Town (TTT).</td>
-      <td><img src="https://img.shields.io/badge/-Lua-000?logo=lua&style=flat-square"></td>
-    </tr>
-  </table>
-</div>
+- **Telegram**: [@Devekisss](https://t.me/Devekisss)  
+- **Email**: [SalatiksamaMic@outlook.com](mailto:SalatiksamaMic@outlook.com)  
+- **Website**: [fasadsalatov.vercel.app](https://fasadsalatov.vercel.app)  
+- **Location**: In the virtual world, somewhere between the _Overworld_ and the _Hidden Leaf Village_ 🌍
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FasadSalatov&theme=radical" alt="GitHub Streak"/>
-</div>
+### Fun Facts 🎮
+
+- 🎮 I’ve modded _Minecraft_ to add **Naruto jutsus** – Believe it! 🍥  
+- 🦸‍♂️ Built a Telegram bot that helps you find rare Pokémon in-game – _Gotta catch 'em all!_  
+- 🌌 Working on a project to integrate **Three.js** for building anime-themed interactive web apps
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBlNjg4NDA3YTVlNzdiNjc4MzZiNDBjNzRhNjE2M2FkZTYxNGQzZiZjdD1z/MU2Zd7tcCG5sHTN0Ry/giphy.gif" width="400"/>
-</div>
+### GitHub Stats ⚡
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FasadSalatov&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FasadSalatov&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
-## ✨ Fun Facts:
+### Famous Quotes 🎯
 
-- 🎮 Favorite Games: Dota 2, Garry's Mod, Sekiro: Shadows Die Twice
-- 🌟 Favorite Anime: Fullmetal Alchemist: Brotherhood, Attack on Titan, Steins;Gate, Code Geass
-- 👾 Geek Interests: Machine Learning, Modding Games, Anime Culture
-- 🎧 Music: Synthwave, EDM, Anime OSTs
-
----
-
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FasadSalatov&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FasadSalatov&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Obito+Uchiha+Believe+It!" alt="Anime Quote" />
+</p>
 
 ---
 
-<div align="center">
-  <h3>📫 Want to reach me? Connect via:</h3>
-  <p>
-    <a href="https://t.me/Devekiss" target="_blank"><img src="https://img.shields.io/badge/-Telegram-000?style=for-the-badge&logo=telegram"></a>
-    <a href="mailto:SalatiksamaMic@outlook.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail"></a>
-    <a href="https://fasadsalatov.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=vercel"></a>
-  </p>
-</div>
+### Projects 🚀
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=FF5733&width=500&lines=That's+all+for+now.+See+you+in+the+code!" alt="Typing SVG" />
-</div>
+- 💻 Telegram Mini-Apps – Power up your chats!  
+- 🎮 Minecraft Mods – More adventures, more challenges!  
+- 🕹️ Game Plugins – Custom mechanics, more fun!  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT5LMQjei9E2slRdmI/giphy.gif" alt="Bye!" />
+</p>
+
+---
+
+<p align="center">"There's no end to the journey of a developer!" - Me 👾</p>
