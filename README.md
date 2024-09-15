@@ -78,7 +78,7 @@
 ---
 
 <p align="center">
- <img src="[https://media.giphy.com/media/l0HlPjezG6ZPRu72w/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdneXQ2eXozNnNjaTlucnY1aXlrOXIweXVzc3h6MWJqOGk0OWprMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OdSZCPaQZWlWw/giphy.webp)" width="400" height="200" alt="Gurren Lagann Gif"/>
+ <img src="https://media.giphy.com/media/l0HlPjezG6ZPRu72w/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdneXQ2eXozNnNjaTlucnY1aXlrOXIweXVzc3h6MWJqOGk0OWprMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OdSZCPaQZWlWw/giphy.webp" width="400" height="200" alt="Gurren Lagann Gif"/>
 </p>
 
 <p align="center">
