@@ -75,7 +75,7 @@
 
 ### Let's Connect! 🤝
 
-- **Telegram**: [@Fasad_Salatov]([https://t.me/Devekisss](https://t.me/Fasad_Salatov))  
+- **Telegram**: [@Fasad_Salatov](https://t.me/Fasad_Salatov)
 - **Email**: [SalatiksamaMic@outlook.com](mailto:SalatiksamaMic@outlook.com)  
 - **Website**: [FasadSite](https://fasadsalatov.vercel.app)
 
@@ -83,7 +83,7 @@
 
 ### Want to play a game? 🎮
 
-- Check out this fun **mini-game** where a robot destroys **spaceships!** [Play here!](https://<твой-username>.github.io/robot-vs-spaceships)
+- Check out this fun **mini-game** where a robot destroys **spaceships!** [Play here!](https://fasadsalatov.github.io/SpaceWarGame/)
 ---
 
 <p align="center">
