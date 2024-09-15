@@ -119,7 +119,7 @@
 <!-- Повторение того же эпичного GIF из Гуррен Лаганн с гигантским боем мехов -->
 
 <p align="center">
-  _"Believe in yourself, not just in the code, but in the developer who writes it!"_
+  "Believe in yourself, not just in the code, but in the developer who writes it!"
 </p>
 
 <!-- Мотивационная строка с отсылкой к тематике мехов и программистам -->
