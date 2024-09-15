@@ -78,7 +78,7 @@
 ---
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/l0HlPjezG6ZPRu72w/giphy.gif](https://giphy.com/gifs/kamina-lagann-toppa-OdSZCPaQZWlWw)" width="400" height="200" alt="Gurren Lagann Gif"/>
+ <iframe src="https://giphy.com/embed/OdSZCPaQZWlWw" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kamina-lagann-toppa-OdSZCPaQZWlWw">via GIPHY</a></p>
 </p>
 
 <p align="center">
