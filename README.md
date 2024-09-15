@@ -76,7 +76,7 @@
 
 ### Let's Connect! 🤝
 
-- **Telegram**: [@Fasad_Salatov]([https://t.me/Devekisss](https://t.me/Fasad_Salatov))  
+- **Telegram**: [@Fasad]([https://t.me/Devekisss](https://t.me/Fasad_Salatov))  
 - **Email**: [SalatiksamaMic@outlook.com](mailto:SalatiksamaMic@outlook.com)  
 - **Website**: [FasadSite](https://fasadsalatov.vercel.app)
 
