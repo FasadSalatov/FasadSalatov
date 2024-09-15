@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm FasadSalatov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Welcome, I'm FasadSalatov! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6A64F7&center=true&vCenter=true&width=435&lines=Full-stack+dev+for+Telegram+mini-apps;Bots%2C+plugins%2C+mods+%26+more!;Welcome+to+my+kingdom+of+code!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF7F50&center=true&vCenter=true&width=700&lines=Full-stack+developer+for+Telegram+mini-apps;Bots%2C+plugins%2C+mods%2C+and+more!;Pierce+the+heavens+with+your+code!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,43 +10,48 @@
 
 ---
 
-### About Me 🙋‍♂️
+### About Me 🌠
 
-- 🌍 Full-stack developer from **Russia**  
-- 💻 I specialize in **Telegram mini-apps**, **bots**, **game plugins**, and **Minecraft mods**  
-- 🎮 Love anime and games! Big fan of _Naruto_, _One Piece_, and _Minecraft_  
-- 🔥 I combine the power of **Node.js** and **React** to bring worlds to life, whether it’s in a mini-app or a Minecraft mod!  
-- 💡 I’m all about **problem-solving** and building **automated solutions**  
-- 🌱 Currently leveling up with **NestJS**, **Three.js**, and **AI**
+> _"Don't believe in the you that believes in me. Don't believe in the me that believes in you. Believe in the you that believes in yourself!"_ - Kamina, **Gurren Lagann**
+
+- 💻 Full-stack developer with expertise in **Telegram mini-apps**, **bots**, **game plugins**, and **Minecraft mods**
+- 🔥 Love creating projects that combine creativity and automation
+- 🚀 My code is powered by **JavaScript**, **Node.js**, **React**, and more
+- 🎮 Fan of **Gurren Lagann**, **Evangelion**, and **JRPGs**  
+- 🌱 Currently leveling up with **NestJS** and **Three.js**
 
 ---
 
-### My Arsenal 💼
+### My Skill Set ⚙️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,mongodb,postgres,mysql,html,css,webpack,docker,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,mongodb,postgres,mysql,html,css,webpack,docker,git,github,vscode,threejs,nestjs" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FasadSalatov&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### Contact Me 📫
+### My Projects 🚀
 
-- **Telegram**: [@Devekisss](https://t.me/Devekisss)  
-- **Email**: [SalatiksamaMic@outlook.com](mailto:SalatiksamaMic@outlook.com)  
-- **Website**: [fasadsalatov.vercel.app](https://fasadsalatov.vercel.app)  
-- **Location**: In the virtual world, somewhere between the _Overworld_ and the _Hidden Leaf Village_ 🌍
-
----
-
-### Fun Facts 🎮
-
-- 🎮 I’ve modded _Minecraft_ to add **Naruto jutsus** – Believe it! 🍥  
-- 🦸‍♂️ Built a Telegram bot that helps you find rare Pokémon in-game – _Gotta catch 'em all!_  
-- 🌌 Working on a project to integrate **Three.js** for building anime-themed interactive web apps
+- 🕹️ **Telegram Mini-Apps** – Level up your chats with interactive experiences!  
+- 🔧 **Minecraft Mods** – Custom worlds, powered by imagination  
+- 🎮 **Game Plugins** – New mechanics to enhance your gaming adventures!  
+- 🌌 **Three.js Projects** – Building anime-inspired 3D worlds in the browser
 
 ---
 
-### GitHub Stats ⚡
+### Fun Facts 💥
+
+- 🌌 I built a **Gurren Lagann** mod for Minecraft, featuring the iconic **Giga Drill Break** attack!
+- 🔧 My bots automate tasks like a **Mecha** in overdrive, all while staying lightweight and efficient
+- 🛠️ Currently building a game plugin with **3D mechs**, inspired by _Super Robot Wars_
+
+---
+
+### GitHub Stats 📊
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FasadSalatov&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -58,26 +63,26 @@
 
 ---
 
-### Famous Quotes 🎯
+### Quotes to Live By 🎯
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Obito+Uchiha+Believe+It!" alt="Anime Quote" />
-</p>
+> _"Go beyond the impossible and kick reason to the curb! That's how Team Dai-Gurren rolls!"_ – Kamina, **Gurren Lagann**
 
 ---
 
-### Projects 🚀
+### Let's Connect! 🌍
 
-- 💻 Telegram Mini-Apps – Power up your chats!  
-- 🎮 Minecraft Mods – More adventures, more challenges!  
-- 🕹️ Game Plugins – Custom mechanics, more fun!  
+- **Telegram**: [@Devekisss](https://t.me/Devekisss)  
+- **Email**: [SalatiksamaMic@outlook.com](mailto:SalatiksamaMic@outlook.com)  
+- **Website**: [fasadsalatov.vercel.app](https://fasadsalatov.vercel.app)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT5LMQjei9E2slRdmI/giphy.gif" alt="Bye!" />
+  <img src="https://media.giphy.com/media/l0HlPjezG6ZPRu72w/giphy.gif" width="400" height="200" alt="Gurren Lagann Gif"/>
+</p>
+
+<p align="center">
+  _"Who the hell do you think I am?"_
 </p>
 
 ---
-
-<p align="center">"There's no end to the journey of a developer!" - Me 👾</p>
