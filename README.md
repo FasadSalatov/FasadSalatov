@@ -48,7 +48,8 @@
 ---
 ### Want to play a game? 🎮
 
-Check out this fun mini-game where a robot destroys spaceships! [Play here!](https://<твой-username>.github.io/robot-vs-spaceships)
+- Check out this fun **mini-game** where a robot destroys **spaceships!** [Play here!](https://<твой-username>.github.io/robot-vs-spaceships)
+
 ---
 ### Fun Facts 🎮
 
