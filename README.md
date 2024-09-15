@@ -1,57 +1,68 @@
-<h1 align="center">Welcome, I'm Fasad Salatov! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">
+  🚀 Welcome, I'm FasadSalatov! 🚀
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF7F50&center=true&vCenter=true&width=700&lines=Full+developer+for+Telegram+mini-apps;Bots%2C+plugins%2C+mods%2C+and+more!;Pierce+the+heavens+with+your+code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF4500&center=true&vCenter=true&width=900&lines=Full-stack+developer+%7C+Mini-apps%2C+Bots%2C+Mods+%26+more!;Pierce+the+heavens+with+your+code!+%E2%9A%94%EF%B8%8F+%F0%9F%9A%80;Always+coding+like+Team+Dai-Gurren%21+%F0%9F%92%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/215771288-23d90db3-97a3-4c5e-80f4-f6436e11b181.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/l0HlPjezG6ZPRu72w/giphy.gif" width="600" height="300" alt="Gurren Lagann" />
 </p>
 
 ---
 
-### About Me 🌠
+### About Me 👾
 
-> _"Don't believe in the you that believes in me. Don't believe in the me that believes in you. Believe in the you that believes in yourself!"_ - Kamina, **Gurren Lagann**
+> _"Kick reason to the curb and go beyond the impossible!"_ – **Kamina**, Gurren Lagann
 
-- 💻 Full-stack developer with expertise in **Telegram mini-apps**, **bots**, **game plugins**, and **Minecraft mods**
-- 🔥 Love creating projects that combine creativity and automation
-- 🚀 My code is powered by **JavaScript**, **Node.js**, **React**, and more
-- 🎮 Fan of **Gurren Lagann**, **Evangelion**, and **JRPGs**  
-- 🌱 Currently leveling up with **NestJS** and **Three.js**
+- 💻 I'm a **full-stack developer** from **Russia**, focusing on **Telegram mini-apps**, **bots**, **game plugins**, and **Minecraft mods**  
+- 🎮 **Gamer at heart**, with love for **Gurren Lagann**, **JRPGs**, and everything **mecha**  
+- 🔧 I use **JavaScript**, **Node.js**, **React**, and **NestJS** to bring ideas to life, much like building a giant mecha out of code  
+- 🌱 Always learning and leveling up with new technologies like **Three.js** to craft **anime-inspired 3D experiences**  
+- 💡 Currently working on **custom bots** and **mods** to automate the impossible!
 
 ---
 
-### My Skill Set ⚙️
+### My Skills & Arsenal 🛠️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,mongodb,postgres,mysql,html,css,webpack,docker,git,github,vscode,threejs,nestjs" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,mongodb,postgres,mysql,html,css,webpack,docker,git,github,vscode,threejs,nestjs,java,python" alt="Tech Stack" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FasadSalatov&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-### My Projects 🚀
-
-- 🕹️ **Telegram Mini-Apps** – Level up your chats with interactive experiences!  
-- 🔧 **Minecraft Mods** – Custom worlds, powered by imagination  
-- 🎮 **Game Plugins** – New mechanics to enhance your gaming adventures!  
-- 🌌 **Three.js Projects** – Building anime-inspired 3D worlds in the browser
+<p align="center">
+  <img src="https://media.giphy.com/media/xT5LMQjei9E2slRdmI/giphy.gif" width="400" height="200"/>
+</p>
 
 ---
 
-### Fun Facts 💥
+### My Projects 💥
 
-- 🌌 I built a **Gurren Lagann** mod for Minecraft, featuring the iconic **Giga Drill Break** attack!
-- 🔧 My bots automate tasks like a **Mecha** in overdrive, all while staying lightweight and efficient
-- 🛠️ Currently building a game plugin with **3D mechs**, inspired by _Super Robot Wars_
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F73B73&center=true&vCenter=true&width=700&lines=💻+Telegram+Mini-Apps+to+power+up+your+chats!;🎮+Minecraft+Mods+with+custom+worlds!;🚀+Game+Plugins+to+enhance+your+adventures!;🌌+Three.js+Anime+Inspired+3D+Experiences!"/>
+</p>
+
+- **Telegram Mini-Apps** – Enhancing Telegram with **interactive utilities** that make communication more engaging!  
+- **Minecraft Mods** – Bringing in **anime-inspired worlds** and **custom game mechanics** into Minecraft!  
+- **Game Plugins** – Building custom features that turn gaming into an adventure  
+- **Three.js Projects** – Developing **3D visual experiences** influenced by **anime mechs** and space operas
 
 ---
 
-### GitHub Stats 📊
+### Fun Facts 🎮
+
+- 🌌 I once made a **Gurren Lagann mod** for Minecraft, where you could use the **Giga Drill Break** to mine huge areas at once!  
+- 🛠️ My bots are automated like **mechas**, always reliable and efficient, taking on the hardest tasks  
+- 💥 I love coding **3D games** and adding **mechs** into the virtual world – _Gurren Lagann style!_
+
+---
+
+### GitHub Stats ⚡
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FasadSalatov&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -65,11 +76,13 @@
 
 ### Quotes to Live By 🎯
 
-> _"Go beyond the impossible and kick reason to the curb! That's how Team Dai-Gurren rolls!"_ – Kamina, **Gurren Lagann**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Go+beyond+the+impossible%2C+and+kick+reason+to+the+curb%21+-+Kamina" alt="Quote" />
+</p>
 
 ---
 
-### Let's Connect! 🌍
+### Let's Connect! 🤝
 
 - **Telegram**: [@Devekisss](https://t.me/Devekisss)  
 - **Email**: [SalatiksamaMic@outlook.com](mailto:SalatiksamaMic@outlook.com)  
@@ -78,11 +91,11 @@
 ---
 
 <p align="center">
- <img src="https://media.giphy.com/media/l0HlPjezG6ZPRu72w/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdneXQ2eXozNnNjaTlucnY1aXlrOXIweXVzc3h6MWJqOGk0OWprMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OdSZCPaQZWlWw/giphy.webp" width="400" height="200" alt="Gurren Lagann Gif"/>
+  <img src="https://media.giphy.com/media/l0HlPjezG6ZPRu72w/giphy.gif" width="400" height="200" alt="Gurren Lagann Gif"/>
 </p>
 
 <p align="center">
-  _"Who the hell do you think I am?"_
+  _"Believe in yourself, not just in the code, but in the developer who writes it!"_
 </p>
 
 ---
