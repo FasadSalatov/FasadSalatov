@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, I'm FasadSalatov! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF7F50&center=true&vCenter=true&width=700&lines=Full-stack+developer+for+Telegram+mini-apps;Bots%2C+plugins%2C+mods%2C+and+more!;Pierce+the+heavens+with+your+code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF7F50&center=true&vCenter=true&width=700&lines=Full+developer+for+Telegram+mini-apps;Bots%2C+plugins%2C+mods%2C+and+more!;Pierce+the+heavens+with+your+code!" alt="Typing SVG" />
 </p>
 
 <p align="center">
