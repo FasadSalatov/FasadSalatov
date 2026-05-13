@@ -1,9 +1,9 @@
 <!-- ========================================================================
-     fasad.sys // NERV terminal  —  profile readme
-     Synced with https://nerv-fasad.netlify.app
+     fasad.sys // NERV terminal — profile readme v2
+     Mirrors: https://nerv-fasad.netlify.app
      ======================================================================== -->
 
-<!-- HERO: animated waving capsule banner, amber gradient -->
+<!-- HERO -->
 <a href="https://nerv-fasad.netlify.app">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb020,50:ff8c10,100:ff3020&height=240&section=header&text=FASAD.SYS&fontSize=90&fontColor=0b0a06&font=JetBrains%20Mono&animation=twinkling&desc=NERV%20terminal%20//%20senior%20full-stack%20·%20agent-dev%20·%20MEV&descSize=16&descAlign=50&descAlignY=72" width="100%" alt="fasad.sys // NERV terminal"/>
 </a>
@@ -15,25 +15,47 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=FFB020&center=true&vCenter=true&width=900&lines=11+years+in+prod+·+137%2B+repos;drop-in+tech-lead+·+MVP+%E2%86%92+prod;agent-dev+systems+·+LLM+orchestration;MEV+%26+on-chain+bots+·+EVM+%2B+TON;Telegram+mini-apps+%26+high-load+backs;Kick+reason+to+the+curb." alt="cycling tagline"/>
 </a>
 
-<!-- Profile views counter (animated underline) -->
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=FasadSalatov&label=terminal+sessions&color=ffb020&style=flat-square&labelColor=0b0a06" alt="visits"/>
 <img src="https://img.shields.io/github/followers/FasadSalatov?label=pilots+connected&style=flat-square&color=ffb020&labelColor=0b0a06" alt="followers"/>
 <img src="https://img.shields.io/github/stars/FasadSalatov?label=A.T.+field+resonance&style=flat-square&color=ffb020&labelColor=0b0a06" alt="stars"/>
 
 <br/><br/>
 
-<!-- Links -->
 <a href="https://nerv-fasad.netlify.app"><img src="https://img.shields.io/badge/-nerv--fasad.netlify.app-FFB020?style=flat-square&logo=netlify&logoColor=0b0a06&labelColor=0b0a06" alt="website"/></a>
 <a href="https://t.me/Fasad_Salatov"><img src="https://img.shields.io/badge/-@Fasad__Salatov-FFB020?style=flat-square&logo=telegram&logoColor=0b0a06&labelColor=0b0a06" alt="telegram"/></a>
 <a href="https://x.com/Fasad_Salatov"><img src="https://img.shields.io/badge/-@Fasad__Salatov-FFB020?style=flat-square&logo=x&logoColor=0b0a06&labelColor=0b0a06" alt="x"/></a>
 <a href="mailto:salatiksama@gmail.com"><img src="https://img.shields.io/badge/-salatiksama@gmail.com-FFB020?style=flat-square&logo=gmail&logoColor=0b0a06&labelColor=0b0a06" alt="email"/></a>
-<a href="https://github.com/Solafon"><img src="https://img.shields.io/badge/-Solafon-FFB020?style=flat-square&logo=github&logoColor=0b0a06&labelColor=0b0a06" alt="solafon"/></a>
+<a href="https://unyly.org"><img src="https://img.shields.io/badge/-unyly.org-FFB020?style=flat-square&logo=star&logoColor=0b0a06&labelColor=0b0a06" alt="unyly"/></a>
 
 </div>
 
 ---
 
-<!-- BOOT SEQUENCE: typed out line-by-line, looped -->
+<!-- PIXEL HUD: subsystems status -->
+<div align="center">
+
+### `> systemctl status subsystems`
+
+<table>
+<tr>
+<td align="center" width="12.5%"><img src="./assets/pixel/catalog.png" width="56" alt="catalog" style="image-rendering:pixelated"/><br/><sub><b>CATALOG</b><br/><code>online</code></sub></td>
+<td align="center" width="12.5%"><img src="./assets/pixel/boards.png" width="56" alt="boards" style="image-rendering:pixelated"/><br/><sub><b>BOARDS</b><br/><code>online</code></sub></td>
+<td align="center" width="12.5%"><img src="./assets/pixel/install.png" width="56" alt="install" style="image-rendering:pixelated"/><br/><sub><b>INSTALL</b><br/><code>online</code></sub></td>
+<td align="center" width="12.5%"><img src="./assets/pixel/discovery.png" width="56" alt="discovery" style="image-rendering:pixelated"/><br/><sub><b>DISCOVERY</b><br/><code>scanning</code></sub></td>
+<td align="center" width="12.5%"><img src="./assets/pixel/ops.png" width="56" alt="ops" style="image-rendering:pixelated"/><br/><sub><b>OPS</b><br/><code>armed</code></sub></td>
+<td align="center" width="12.5%"><img src="./assets/pixel/oracle.png" width="56" alt="oracle" style="image-rendering:pixelated"/><br/><sub><b>ORACLE</b><br/><code>online</code></sub></td>
+<td align="center" width="12.5%"><img src="./assets/pixel/cleanup.png" width="56" alt="cleanup" style="image-rendering:pixelated"/><br/><sub><b>CLEANUP</b><br/><code>weekly</code></sub></td>
+<td align="center" width="12.5%"><img src="./assets/pixel/inbox.png" width="56" alt="inbox" style="image-rendering:pixelated"/><br/><sub><b>INBOX</b><br/><code>online</code></sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- BOOT SEQUENCE -->
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=40&pause=4500&color=FFB020&width=920&height=260&lines=NERV+boot-loader+v3.9.3++//++MAGI-03+architecture;%5B++++0.0102%5D+POST+.....+ok;%5B++++0.0571%5D+loading+LCL+firmware+.....+done;%5B++++0.1044%5D+probing+A.T.+field+.....+STABLE;%5B++++0.2004%5D+pilot+authentication%3A+FASAD_SALATOV;%5B++++0.3122%5D+modules+%5Bts%2Cnode%2Crust%2Cgo%2Csolidity%5D+.....+ok;%5B++++0.3701%5D+creative+%5Bthree.js%2Cglsl%5D+.....+ok;%5B++++0.4502%5D+WARN%3A+coffee+reserves+at+7%25+--+CRITICAL;%5B++++0.6108%5D+scanning+github.com%2FFasadSalatov+--+137+repos;%5B++++0.7801%5D+all+systems+green.+get+in+the+robot%2C+Shinji.;%3E+fasad.sys+++ready." alt="boot sequence"/>
@@ -44,18 +66,60 @@
 
 ## `> whoami`
 
-Senior full-stack engineer. 11 лет в проде. 137+ репозиториев. Работаю как **drop-in tech-lead** — захожу в проект, закрываю задачу end-to-end, ухожу с работающим прод-решением.
+Senior full-stack engineer. **11 лет в проде. 137+ репозиториев.** Работаю как **drop-in tech-lead** — захожу в проект, закрываю задачу end-to-end, ухожу с работающим прод-решением.
 
-Специализация:
-- **Agent-dev systems** — core LLM + swarm маленьких моделей + детерминистичные скрипты
-- **MEV / on-chain** — арбитраж, ликвидаторы, индексеры (EVM + TON)
-- **Telegram products** — mini-apps, бот-экосистемы, Stars payments, до 100k+ MAU
-- **High-load бэки** — Node / Go / Rust + Postgres / Redis / k8s, наблюдаемость из коробки
-- **Creative code** — Three.js, Canvas, GLSL шейдеры, моды для Minecraft / Gmod
+**Специализация:**
+- 🤖 **Agent-dev systems** — core LLM + swarm маленьких моделей + детерминистичные скрипты для надёжности
+- ⛓ **MEV / on-chain** — арбитраж, ликвидаторы, индексеры (EVM + TON)
+- 📱 **Telegram products** — mini-apps, бот-экосистемы, Stars payments, до 100k+ MAU
+- ⚡ **High-load бэки** — Node / Go / Rust + Postgres / Redis / k8s, observability из коробки
+- 🎨 **Creative code** — Three.js, Canvas, GLSL шейдеры, моды для Minecraft / Gmod
 
 ---
 
-<!-- Section divider animated -->
+## `> ls /projects/active`
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🦄 [unyly.org](https://unyly.org)
+**MCP Marketplace для Claude.** 11 700+ серверов в каталоге, one-click install, AI-поиск с SSE-стримом, OpenAPI→MCP конвертер. Boards + AI-агенты (Tester-Relay, Daily-Standup, MCP-Discovery), Trello-integration с live-sync.
+
+`Next.js 16` · `Drizzle` · `SQLite` · `Tailwind 4` · `better-auth`
+
+</td>
+<td valign="top" width="50%">
+
+### 🤖 NERV agent platform
+Локальные AI-агенты на Claude Agent SDK. Pull Trello → Claude CLI → действует в твоём репо. Без облака, без подписок, без БД серверной.
+
+`@anthropic-ai/claude-agent-sdk` · `Node` · `Trello API`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### ⛓ MEV / on-chain bots
+Арбитраж DEX, sandwich-resistant flow, ликвидаторы. EVM (viem + Flashbots) и TON. Прод-deploy через свою webhook-инфру с автоматическим Telegram-уведомлением.
+
+`Rust` · `viem` · `TON Connect` · `Flashbots`
+
+</td>
+<td valign="top">
+
+### 🚀 Деплой-инфра (open infrastructure)
+Один VPS обслуживает 7+ продакшен-проектов: `git push prod` → webhook → SSH-deploy → GitHub deployment status → Telegram-уведомление с прогрессом стейджей и AI-разбором фейлов через Haiku.
+
+`Express` · `PM2` · `Anthropic API` · `Bot API 9.4`
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=99999&color=FFB020&center=true&vCenter=true&width=500&lines=%3E+cat+%2Fetc%2Farsenal" alt="arsenal"/>
 </div>
@@ -119,6 +183,7 @@ Fine-tune LM  ████·
 Whisper / TTS ████·
 vLLM / ollama ████·
 Tool calling  █████
+Claude SDK    █████
 ```
 
 </td>
@@ -148,165 +213,102 @@ nginx/caddy   █████
 Linux / shell █████
 Observabilty  ████·
 Cloudflare    █████
+PM2 / systemd █████
 ```
 
 </td>
 </tr>
 </table>
 
+---
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,py,rust,go,solidity,nodejs,bun,react,nextjs,tailwind,threejs,nestjs,fastapi,postgres,mongodb,redis,docker,kubernetes,nginx,linux,githubactions,cloudflare&theme=dark" alt="stack" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=99999&color=FFB020&center=true&vCenter=true&width=500&lines=%3E+top+--metrics" alt="metrics"/>
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FasadSalatov&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=FFB020&icon_color=FFB020&text_color=c0c0c0&ring_color=FFB020" alt="stats"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=FasadSalatov&theme=tokyonight&hide_border=true&background=0a0a0f&stroke=ffb020&ring=ffb020&fire=ff3020&currStreakLabel=ffb020&sideLabels=c0c0c0&dates=c0c0c0&currStreakNum=ffb020&sideNums=ffb020" alt="streak"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FasadSalatov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=FFB020&text_color=c0c0c0&langs_count=10" alt="top langs"/>
+<img height="170" src="https://github-profile-trophy.vercel.app/?username=FasadSalatov&theme=onestar&row=2&column=3&margin-w=8&margin-h=8&no-bg=true&no-frame=true&title=Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="trophies"/>
+
+</div>
+
+<!-- Snake contribution graph (генерится отдельным GH Action в output branch) -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FasadSalatov/FasadSalatov/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FasadSalatov/FasadSalatov/output/github-contribution-grid-snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/FasadSalatov/FasadSalatov/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=99999&color=FFB020&center=true&vCenter=true&width=500&lines=%3E+ls+%2Fops" alt="ops"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=99999&color=FFB020&center=true&vCenter=true&width=620&lines=%3E+tail+-f+%2Fvar%2Flog%2Fmanifesto" alt="manifesto"/>
 </div>
 
-Текущие и недавние операции. Полный список — [nerv-fasad.netlify.app](https://nerv-fasad.netlify.app).
-
-| ID | Name | Type | Status | Stack |
-|:--:|:--|:--:|:--:|:--|
-| **OP-00** | [agent-dev/core](https://nerv-fasad.netlify.app) — orchestrator + swarm + scripts | `ai` | 🟢 live | Python · TS · LLM |
-| **OP-01** | [Solafon](https://github.com/Solafon) — iOS + Android + MCP server | `crypto` | 🟢 live | Swift · Kotlin · TS · TON |
-| **OP-02** | mev-engine — arbitrage + bundle stack на EVM | `mev` | 🟢 live | Rust · Go · Solidity |
-| **OP-08** | liquidator-bot — on-chain ликвидатор | `mev` | 🟢 live | Go · Solidity |
-| **OP-07** | swarm-ner — small-LM NER роутер | `ai` | 🟢 live | Python · vLLM |
-| **OP-20** | chain-indexer — on-chain индексер + API для ботов | `mev` | 🟢 live | Rust · Postgres |
-| **OP-04** | Quantex — TG mini-app + desktop фронт | `crypto` | 🟡 wip | Next.js · TG Mini Apps |
-| **OP-05** | Crybble — бэкенд + админка крипто-проекта | `crypto` | 🟡 wip | NestJS · PostgreSQL |
-| **OP-18** | Ai-Agregator — единый API над зоопарком LLM | `ai` | 🟡 wip | TS · Python |
-| **OP-06** | [TbccGifts](https://github.com/TBCC-COIN/TbccGifts) — интеграция с TBCC | `bots` | 🟢 live | Node.js · TG Bot API |
-| **OP-19** | MiniAppRabbit — TG mini-app с игровой механикой | `bots` | 🟢 live | React · TG Mini Apps |
-| **OP-13** | [ReadmeMdConstructor](https://github.com/FasadSalatov/ReadmeMdConstructor) | `tools` | 🟢 live | JS · Markdown |
-| **OP-14** | [ASCHII-GEN](https://github.com/FasadSalatov/ASCHII-GEN) | `tools` | 🟢 live | JS |
-| **OP-10** | [SpaceWarGame](https://github.com/FasadSalatov/SpaceWarGame) | `games` | 🟢 live | JS · Canvas |
-| **OP-12** | [TTT-TTS-Plugin](https://github.com/FasadSalatov/TTT-TTS-Plugin-for-Garry-s-Mod) | `games` | 🟢 live | Lua · GMod |
-| **OP-03** | [Nullphoria](https://github.com/FasadSalatov/Nullphoria-site) | `web` | ⚫ archived | Next.js · motion |
+```diff
++ pnpm, не npm. install в 2026 уже стыдно
++ Trello-Linear sync через AI: тестер пишет — нормализованный тикет в Linear
++ AI-агенты на каждый workflow (standup, PR-review, prod-incident, zombie)
++ Glass UI > flat. Pixel-art + backdrop-blur — лучший компромисс ностальгии и production
++ Cryptomus, не Stripe — крипто-биллинг без danse с PCI
++ Свой webhook-deploy сервер, не GitHub Actions. Контроль, нет минут-квот
+- vibe coding без тестов — на pre-launch ок, на проде = неделя на root cause
+- LLM везде — нет. Детерминистичный fallback на каждом критичном шаге
+```
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=99999&color=FFB020&center=true&vCenter=true&width=500&lines=%3E+cat+%2Fservices" alt="services"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=99999&color=FFB020&center=true&vCenter=true&width=500&lines=%3E+nc+--connect" alt="connect"/>
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### `SENIOR` · Full-stack engineering
-Архитектура, high-load бэки, фронт с характером, CI/CD под ключ.
-> _от MVP до прод · команда 1–5_
+### 💼 Заказная разработка
 
-### `AI` · Agent-dev systems
-Системы из core LLM + swarm маленьких моделей + детерминистичных скриптов. Меньше цена, больше скорость.
-> _RAG · tool-calling · eval_
-
-### `WEB3` · MEV / on-chain bots
-Arbitrage, sandwich-защита, ликвидаторы, индексеры. EVM + TON. Работают 24/7 без нянек.
-> _Rust · Go · Solidity · TON_
+Next.js / Go / Python / интеграции. Средние и большие проекты.<br/>MVP за 2-3 недели, прод за 6-8.
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
-### `TG` · Telegram products
-Mini-apps, bot ecosystems, платёжки. От MVP до 100k+ MAU. Доли секунд и честные анимации.
-> _Mini Apps · Bot API · Stars_
+### 🧠 CTO-консалтинг
 
-### `OPS` · Infra & DevOps
-Linux · Docker · k8s · CI · observability. Ставлю так, чтобы работало в три часа ночи.
-> _GH Actions · k8s · Cloudflare_
+Архитектура, выбор стека, найм первой команды.<br/>Звонок 30 мин — бесплатно.
 
-### `GAME` · Games & creative code
-Canvas / WebGL / Three.js, моды для Minecraft, Gmod-плагины, шейдеры, motion-дизайн.
-> _Three.js · Phaser · Forge · Lua_
+</td>
+<td align="center" width="33%">
+
+### 🤖 AI-агенты под workflow
+
+Claude-based автоматизация под твою рутину.<br/>Trello → Linear / GitHub bot / DevOps.
 
 </td>
 </tr>
 </table>
 
----
-
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=99999&color=FFB020&center=true&vCenter=true&width=500&lines=%3E+cat+%2Fmanifesto" alt="manifesto"/>
-</div>
 
-```
-01  Не плати за flagship-модель там, где хватит regex-а.
-02  Deterministic скрипты > агенты, везде, где можно.
-03  Маленькая модель под задачу бьёт большую — если узкая задача.
-04  Boilerplate — это налог. Не платить.
-05  Прод > демо. Всё должно жить после захода заказчика.
-06  Если не мониторится — этого не существует.
-07  Анимация должна быть честной — 60fps или не нужна вовсе.
-08  Ship it. А потом ещё раз. А потом ещё.
-```
+**[`telegram → @Fasad_Salatov`](https://t.me/Fasad_Salatov)** · **[`mail → salatiksama@gmail.com`](mailto:salatiksama@gmail.com)** · **[`x → @Fasad_Salatov`](https://x.com/Fasad_Salatov)**
 
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=99999&color=FFB020&center=true&vCenter=true&width=500&lines=%3E+telemetry" alt="telemetry"/>
-</div>
-
-<!-- Live stats cards: NERV-tuned -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FasadSalatov&show_icons=true&count_private=true&hide_border=true&bg_color=0b0a06&title_color=ffb020&icon_color=ff8c10&text_color=f5e9c9&ring_color=ffb020" alt="stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FasadSalatov&hide_border=true&background=0b0a06&stroke=2a2313&ring=ffb020&fire=ff8c10&currStreakLabel=ffb020&sideLabels=f5e9c9&dates=c4b793&currStreakNum=ff8c10&sideNums=f5e9c9" alt="streak" width="48%"/>
-</div>
-
-<!-- Animated activity graph -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FasadSalatov&bg_color=0b0a06&color=ffb020&line=ff8c10&point=ffb020&area=true&area_color=ff8c10&hide_border=true&custom_title=A.T.%20Field%20—%20commit%20resonance" alt="activity graph" width="98%"/>
-</div>
-
-<!-- Trophy + top langs -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=FasadSalatov&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophy" width="98%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FasadSalatov&layout=compact&hide_border=true&bg_color=0b0a06&title_color=ffb020&text_color=f5e9c9&langs_count=10" alt="top-langs" width="48%"/>
-<img src="./profile-summary-card-output/great_gatsby/2-most-commit-language.svg" alt="most-commit-lang" width="48%"/>
-</div>
-
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FasadSalatov/FasadSalatov/output/nerv-snake.svg" alt="snake eating contribution graph" width="98%"/>
-</div>
-
-<!-- MAGI profile summary cards -->
-<div align="center">
-<img src="./profile-summary-card-output/great_gatsby/0-profile-details.svg" alt="profile-details" width="48%"/>
-<img src="./profile-summary-card-output/great_gatsby/3-stats.svg" alt="stats card" width="48%"/>
-<img src="./profile-summary-card-output/great_gatsby/1-repos-per-language.svg" alt="repos-per-lang" width="48%"/>
-<img src="./profile-summary-card-output/great_gatsby/4-productive-time.svg" alt="productive-time" width="48%"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=1&pause=99999&color=FFB020&center=true&vCenter=true&width=500&lines=%3E+contact+--direct" alt="contact"/>
+<sub>powered by ☕, <code>pnpm</code> и pixel-art от <a href="https://pixellab.ai">pixellab.ai</a> · last boot — <img src="https://img.shields.io/github/last-commit/FasadSalatov/FasadSalatov?label=&color=ffb020&style=flat-square&labelColor=0b0a06" alt="last commit" /></sub>
 </div>
 
-```
-▸ site       https://nerv-fasad.netlify.app
-▸ telegram   @Fasad_Salatov
-▸ x          @Fasad_Salatov
-▸ github     github.com/FasadSalatov
-▸ email      salatiksama@gmail.com
-▸ org        Solafon  ·  github.com/Solafon
-```
-
-<!-- Quote cycle -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3500&pause=1000&color=C4B793&center=true&vCenter=true&width=820&lines=%22Kick+reason+to+the+curb+and+go+beyond+the+impossible.%22+--+Kamina;%22Get+in+the+robot%2C+Shinji.%22+--+Everyone%2C+Evangelion;%22You+won%27t+die.+I%27ll+protect+you.%22+--+Shinji;%22Ship+it.+And+then+ship+it+again.%22+--+fasad.sys" alt="quotes"/>
-
-<br/>
-
-<a href="https://nerv-fasad.netlify.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3020,50:ff8c10,100:ffb020&height=140&section=footer&text=%E2%86%B3%20launch%20NERV%20terminal&fontSize=24&fontColor=0b0a06&font=JetBrains%20Mono&animation=twinkling" width="100%" alt="↳ NERV terminal"/>
-</a>
-
-</div>
+<!-- ========================================================================
+     End of fasad.sys profile readme v2.
+     get in the robot, Shinji.
+     ======================================================================== -->
