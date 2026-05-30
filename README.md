@@ -14,7 +14,7 @@
 # fasad · CTO @ [solafon](https://solafon.com)
 
 <a href="https://github.com/FasadSalatov">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=600&color=EC4899&center=false&vCenter=false&multiline=false&width=620&lines=строю+MCP-маркетплейсы+для+Claude;пишу+AI-агентов+которые+делают+рутину+сами;деплою+на+свой+webhook-сервер+%E2%80%94+без+GitHub+Actions;катаю+kawaii+glass-эстетику+в+продакшен" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=600&color=EC4899&center=false&vCenter=false&multiline=false&width=620&lines=building+MCP+marketplaces+for+Claude;shipping+AI+agents+that+close+tickets+on+their+own;deploying+via+my+own+webhook+server+%E2%80%94+no+GitHub+Actions;baking+kawaii+glass+aesthetics+into+production" alt=""/>
 </a>
 
 `Next.js 16` · `Drizzle` · `Tailwind 4` · `Claude Agent SDK` · `Rust` · `TON · EVM` · `Node · Bun · Go`
@@ -33,8 +33,8 @@
 
 <div align="center">
 
-> _11 лет в коммерческой разработке. Веду продукты от идеи до прод-деплоя — full-stack, AI-агенты, on-chain, инфра._
-> _Сейчас фокус — **MCP-экосистема** и **агенты, которые сами закрывают тикеты**._
+> _11 years shipping commercial software. I take products from idea to production — full-stack, AI agents, on-chain, infra._
+> _Current focus — the **MCP ecosystem** and **agents that close their own tickets**._
 
 <br/>
 
@@ -69,19 +69,19 @@
 </td>
 <td valign="top">
 
-### MCP marketplace для Claude · Cursor · Cline
+### MCP marketplace for Claude · Cursor · Cline
 
-Полная экосистема вокруг **Model Context Protocol** — каталог, поиск, установка, конвертер, агенты, биллинг. Один из крупнейших публичных индексов MCP-серверов в мире.
+A full ecosystem around the **Model Context Protocol** — catalog, search, install, converter, agents, billing. One of the largest public indexes of MCP servers on the web.
 
 ```
-✦ 11 700+  MCP-серверов в каталоге
-✦ 41       таблица в схеме (Drizzle + SQLite)
-✦ 425+     TS-файлов · 31 миграция
-✦ 5        источников ingest (registry · npm · glama · pulsemcp · smithery)
-✦ 2        локали · 22 AI-краулера в robots.txt
+✦ 11,700+  MCP servers in catalog
+✦ 41       tables in schema (Drizzle + SQLite)
+✦ 425+     TS files · 31 migrations
+✦ 5        ingest sources (registry · npm · glama · pulsemcp · smithery)
+✦ 2        locales · 22 AI crawlers in robots.txt
 ```
 
-**Внутри:** AI-поиск с каскадом Gemini → Groq → Haiku · **Brain Boards** с real-time WebSocket и time-machine · **Vault** как граф заметок с `[[wiki-links]]` · **OpenAPI → MCP** конвертер · **Trello live-sync** через webhooks · **NOWPayments** crypto-billing с double-entry ledger · публичный API · CLI с device-code flow · Telegram-бот.
+**Inside:** AI search with a Gemini → Groq → Haiku cascade · **Brain Boards** with real-time WebSocket and time-machine · **Vault** as a notes graph with `[[wiki-links]]` · **OpenAPI → MCP** converter · **Trello live-sync** via webhooks · **NOWPayments** crypto billing with a double-entry ledger · public API · CLI with device-code flow · Telegram bot.
 
 </td>
 </tr>
@@ -93,34 +93,34 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:ec4899&height=2&section=header" width="100%" alt=""/>
 </div>
 
-## ✦ AI-агенты на Claude Agent SDK
+## ✦ AI agents on the Claude Agent SDK
 
-> Боты, которые читают Trello / GitHub / логи, **спавнят `claude --print` в твоём репо**, и сами закрывают тикеты, репортят в Telegram, пишут стендапы.
+> Bots that read Trello / GitHub / logs, **spawn `claude --print` inside your repo**, close tickets, report to Telegram and write your standup.
 
 <table border="0">
 <tr>
 <td width="80" align="center"><img src="./assets/icons/tester-relay.png" width="60" alt="" style="image-rendering:pixelated"/></td>
-<td><b>Tester-Relay</b><br/><sub>pull тикет → запустить тесты → если пада́ют, спавнить агента-фиксера → repush → notify</sub></td>
+<td><b>Tester-Relay</b><br/><sub>pull ticket → run tests → on red, spawn a fixer agent → repush → notify</sub></td>
 <td width="80" align="center"><img src="./assets/icons/mcp-discovery.png" width="60" alt="" style="image-rendering:pixelated"/></td>
-<td><b>MCP-Discovery</b><br/><sub>краулит npm/awesome/github каждые 4 часа → embed → дедуп → upsert в каталог</sub></td>
+<td><b>MCP-Discovery</b><br/><sub>crawls npm / awesome / github every 4h → embed → dedupe → upsert into the catalog</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./assets/icons/daily-standup.png" width="60" alt="" style="image-rendering:pixelated"/></td>
-<td><b>Daily-Standup</b><br/><sub>читает мои коммиты + Linear → пишет стендап утром в Telegram, выделяет блокеры</sub></td>
+<td><b>Daily-Standup</b><br/><sub>reads my commits + Linear → drops a morning standup to Telegram, calls out blockers</sub></td>
 <td align="center"><img src="./assets/icons/cross-project-digest.png" width="60" alt="" style="image-rendering:pixelated"/></td>
-<td><b>Cross-Project-Digest</b><br/><sub>раз в неделю агрегирует активность 7+ репо в один дайджест для CEO/инвесторов</sub></td>
+<td><b>Cross-Project-Digest</b><br/><sub>weekly: aggregates activity across 7+ repos into one digest for CEO / investors</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./assets/icons/pr-reviewer.png" width="60" alt="" style="image-rendering:pixelated"/></td>
-<td><b>PR-Reviewer</b><br/><sub>авто-ревью каждого PR — security · perf · clean code · схема БД · MCP-совместимость</sub></td>
+<td><b>PR-Reviewer</b><br/><sub>auto-reviews every PR — security · perf · clean code · DB schema · MCP compatibility</sub></td>
 <td align="center"><img src="./assets/icons/prod-incident.png" width="60" alt="" style="image-rendering:pixelated"/></td>
-<td><b>Prod-Incident</b><br/><sub>sentry/logs → грепает код → пишет PR с фиксом → пингует автора падающей строки</sub></td>
+<td><b>Prod-Incident</b><br/><sub>sentry/logs → greps the code → opens a fix PR → pings whoever wrote the failing line</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./assets/icons/zombie-hunter.png" width="60" alt="" style="image-rendering:pixelated"/></td>
-<td><b>Zombie-Hunter</b><br/><sub>сканит репо на мёртвый код, забытые миграции, deprecated ENV → PR на удаление</sub></td>
+<td><b>Zombie-Hunter</b><br/><sub>scans repos for dead code, forgotten migrations, deprecated ENV → PR to delete</sub></td>
 <td align="center"><img src="./assets/icons/ai-inbox.png" width="60" alt="" style="image-rendering:pixelated"/></td>
-<td><b>AI-Inbox</b><br/><sub>читает почту/чаты/мессенджеры → классифицирует, отвечает на 80%, эскалирует остальное</sub></td>
+<td><b>AI-Inbox</b><br/><sub>reads mail / chats / messengers → classifies, answers 80%, escalates the rest</sub></td>
 </tr>
 </table>
 
@@ -130,35 +130,35 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:ec4899&height=2&section=header" width="100%" alt=""/>
 </div>
 
-## ✦ что ещё строю
+## ✦ other lanes
 
 <table border="0">
 <tr>
 <td valign="top" width="33%">
 
 ### 🪙 on-chain / MEV
-- **DEX-арбитраж** на EVM через `viem` + Flashbots-релэи (sandwich-resistant)
-- **TON** — DEX-роутеры, мини-эквайринг, jetton-обмены
-- **Ликвидаторы** для Aave / Compound / Venus
-- **Сигналы** — мониторинг whale-кошельков, on-chain analytics
+- **DEX arbitrage** on EVM via `viem` + Flashbots relays (sandwich-resistant)
+- **TON** — DEX routers, mini-acquiring, jetton swaps
+- **Liquidators** for Aave / Compound / Venus
+- **Signals** — whale-wallet monitoring, on-chain analytics
 
 </td>
 <td valign="top" width="33%">
 
-### 🛰 Telegram-продукты
-- **Mini Apps** на Next.js + WebApp SDK
+### 🛰 Telegram products
+- **Mini Apps** on Next.js + WebApp SDK
 - **Stars payments** + crypto inbound
-- **Игровая монетизация** (Cookie Wars, NERV, partner-боты)
-- **Боты** масштабом до 100k+ MAU, sharded PostgreSQL
+- **Game monetization** (Cookie Wars, NERV, partner bots)
+- **Bots** scaled to 100k+ MAU, sharded PostgreSQL
 
 </td>
 <td valign="top" width="33%">
 
-### 🚀 deploy-инфра
-- Свой **webhook-сервер** на одном VPS (216.57.105.103:3001) обслуживает **7+ продов**
-- `git push prod` → atomic swap `.next.new` → pm2 restart
-- AI-разбор фейлов через Haiku → Telegram
-- Никаких GitHub Actions, никаких Vercel-локов
+### 🚀 deploy infra
+- One **webhook server** on a single VPS serving **7+ production projects**
+- `git push prod` → atomic `.next.new` swap → pm2 restart
+- AI failure triage via Haiku → Telegram
+- No GitHub Actions, no Vercel lock-in
 
 </td>
 </tr>
@@ -192,10 +192,10 @@
 <td valign="top" width="50%">
 
 **ai · web3 · infra**
-- Claude Agent SDK · LLM-cascade · RAG · MCP
+- Claude Agent SDK · LLM cascade · RAG · MCP
 - viem · TON · Flashbots · NOWPayments
 - Docker · k8s · nginx · PM2 · systemd
-- own webhook-deploy server (no GH Actions)
+- own webhook deploy server (no GH Actions)
 
 </td>
 </tr>
@@ -234,32 +234,32 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:ec4899&height=2&section=header" width="100%" alt=""/>
 </div>
 
-## ✦ во что я верю
+## ✦ what I believe
 
 <table border="0">
 <tr>
 <td valign="top" width="50%">
 
-**🛠 чем меньше абстракций — тем дольше живёт код**
-- Не пишу слой ради слоя, не делаю интерфейс для одного имплемента, не оборачиваю std lib без причины.
+**🛠 fewer abstractions, longer-lived code**
+- No layer for the sake of a layer, no interface for a single impl, no wrapping the std lib without a reason.
 
-**⚡ деплой должен быть скучным**
-- `git push prod` — и всё. Никакого человека в цикле, никаких ручных yaml'ов, никаких Vercel-локов.
+**⚡ deploys should be boring**
+- `git push prod` and you're done. No human in the loop, no hand-rolled yaml, no Vercel lock-in.
 
-**🤖 рутину должен делать агент**
-- Стендапы, code review, инциденты, дедуп MCP-серверов — всё это уже умеет делать Claude. Я просто соединяю провода.
+**🤖 the routine belongs to the agent**
+- Standups, code review, incidents, MCP server dedupe — Claude already does this. I just wire the pipes.
 
 </td>
 <td valign="top" width="50%">
 
-**🎨 эстетика не дороже DX**
-- kawaii пиксель-арт, glass UI, gradient brand — но не ценой 200ms LCP. Один SVG лучше десяти `<div>`-ов.
+**🎨 aesthetic, but never at the cost of DX**
+- Kawaii pixel art, glass UI, gradient brand — but not for the price of a 200ms LCP. One SVG beats ten `<div>`s.
 
-**🔒 secrets никогда не в репо**
-- `.env` + `.env.local` + vault. Bot-токены, ключи, prod-конфиги — только в окружении сервера.
+**🔒 secrets never live in the repo**
+- `.env` + `.env.local` + vault. Bot tokens, keys, prod configs — server environment only.
 
-**🌍 свой VPS дешевле и быстрее**
-- 7 продакшен-проектов на одном VPS за $20/мес работают быстрее, чем тот же стек на serverless за $400.
+**🌍 your own VPS is cheaper and faster**
+- 7 production projects on one $20/mo VPS outrun the same stack on $400/mo serverless.
 
 </td>
 </tr>
@@ -275,16 +275,16 @@
 
 | | |
 |---|---|
-| **🛠 заказная разработка** | Next.js · Go · Rust. MVP за 2-3 недели, прод за 6-8. Fixed-price или T&M. |
-| **🤖 AI-агенты под workflow** | Claude-based автоматизация рутины. Trello → GitHub / DevOps / support / sales. |
-| **🧠 CTO-консалтинг** | Архитектура, стек, найм первой команды, due diligence. Первый звонок 30 мин бесплатно. |
-| **🪙 on-chain / MEV** | DEX-арбитраж, ликвидаторы, MEV-bots на EVM и TON. NDA до сделки. |
+| **🛠 custom development** | Next.js · Go · Rust. MVP in 2-3 weeks, production in 6-8. Fixed-price or T&M. |
+| **🤖 AI agents for your workflow** | Claude-based automation of the routine. Trello → GitHub / DevOps / support / sales. |
+| **🧠 CTO consulting** | Architecture, stack picks, hiring your first team, due diligence. First 30 min call on me. |
+| **🪙 on-chain / MEV** | DEX arbitrage, liquidators, MEV bots on EVM and TON. NDA before the deal. |
 
 <div align="center">
 
 <br/>
 
-<a href="https://t.me/Fasad_Salatov"><img src="https://img.shields.io/badge/💬_напиши_в_telegram-@Fasad__Salatov-ec4899?style=for-the-badge&labelColor=0a0a0f" alt="telegram"/></a>
+<a href="https://t.me/Fasad_Salatov"><img src="https://img.shields.io/badge/💬_ping_me_on_telegram-@Fasad__Salatov-ec4899?style=for-the-badge&labelColor=0a0a0f" alt="telegram"/></a>
 <a href="mailto:salatiksama@gmail.com"><img src="https://img.shields.io/badge/✉_email-salatiksama@gmail.com-7c3aed?style=for-the-badge&labelColor=0a0a0f" alt="email"/></a>
 <a href="https://unyly.org"><img src="https://img.shields.io/badge/🦄_unyly.org-9333ea?style=for-the-badge&labelColor=0a0a0f" alt="unyly"/></a>
 
