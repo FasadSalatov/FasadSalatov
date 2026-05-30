@@ -36,7 +36,7 @@
 <td width="220" align="center" valign="top">
 
 <a href="https://unyly.org">
-<img src="./assets/unyly-logo.png" width="180" alt="unyly"/>
+<img src="./assets/mascot/unicorn-east.png" width="200" alt="unyly" style="image-rendering:pixelated"/>
 </a>
 
 </td>
